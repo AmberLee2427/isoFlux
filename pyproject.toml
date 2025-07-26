@@ -14,7 +14,7 @@ name = "isoflux"
 description = "A fast, lightweight, isochrone inference package"
 requires-python = ">=3.9"
 readme = { file = "README.rst", content-type = "text/x-rst" }
-license = { file = "licenses/LICENSE.rst" }
+license = { file = "licenses/MIT.rst" }
 authors = [
   { name = "Amber Malpas", email = "malpas.1@osu.edu" },
 ]
