@@ -1,5 +1,7 @@
+`isoFlux`
+---------
+
 A fast, lightweight, isochrone inference package
-------------------------------------------------
 
 License
 -------
