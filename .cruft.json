@@ -1,0 +1,32 @@
+{
+  "template": "https://github.com/OpenAstronomy/packaging-guide",
+  "commit": "68d04ab47d8a2332a18d49112f3f86f7005dbd43",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "isoFlux",
+      "module_name": "isoflux",
+      "short_description": "A fast, lightweight, isochrone inference package",
+      "author_name": "Amber Malpas",
+      "author_email": "malpas.1@osu.edu",
+      "project_url": "https://github.com/AmberLee2427/isoFlux.git",
+      "license": "Other",
+      "minimum_python_version": "3.9",
+      "use_compiled_extensions": "y",
+      "enable_dynamic_dev_versions": "y",
+      "include_example_code": "n",
+      "include_cruft_update_github_workflow": "y",
+      "_sphinx_theme": "alabaster",
+      "_parent_project": "",
+      "_install_requires": "",
+      "_copy_without_render": [
+        "docs/_templates",
+        "docs/_static",
+        ".github/workflows/sub_package_update.yml"
+      ],
+      "_template": "https://github.com/OpenAstronomy/packaging-guide",
+      "_commit": "68d04ab47d8a2332a18d49112f3f86f7005dbd43"
+    }
+  },
+  "directory": null
+}
